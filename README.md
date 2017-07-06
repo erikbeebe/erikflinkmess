@@ -1,2 +1,1 @@
-# erikflinkmess
-Random Flink hackery for testing
+# Erik's Crappy Flink Mods
